@@ -1,3 +1,2 @@
 # stepik-auto
-auto tests course
-More info 123
+Course on Stepik (187065)
